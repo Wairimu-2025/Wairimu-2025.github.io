@@ -36,13 +36,9 @@ social:
   name: Ann Wairimu K.
   email: anniekiarie07@gmail.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/@_wairimu7 # change to your Twitter homepage
-    - https://github.com/Wairimu-2025 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://twitter.com/_wairimu7
+    - https://github.com/Wairimu-2025
     - https://www.linkedin.com/in/ann-k-networking
-
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
