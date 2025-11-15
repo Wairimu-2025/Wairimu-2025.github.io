@@ -1,5 +1,5 @@
 ---
-title: about
+title: get to know me
 icon: fas fa-info-circle
 order: 4
 ---
