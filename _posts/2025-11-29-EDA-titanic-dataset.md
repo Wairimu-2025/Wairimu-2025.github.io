@@ -3,10 +3,6 @@ title: "Exploratory Data Analysis on The Titanic Dataset"
 date: 2025-11-29 11:22:00 +0300
 categories: [Data Science, EDA]
 tags: [python, kaggle, titanic, eda, visualization]
-image:
-  path: /assets/titanic-banner.png
-  width: 1200
-  height: 600
 ---
 
 ## Overview
@@ -15,7 +11,7 @@ This project explores the **Titanic dataset** using Python and Kaggle Notebook.
 The goal was to understand survival patterns through **univariate, bivariate, multivariate**, and **target-variable analysis**.
 
 🔗 **Kaggle Notebook:**  
-[View full code here](YOUR_KAGGLE_LINK_HERE)
+[View full code here](https://www.kaggle.com/code/annwairimukiarie/ann-kiarie-eda)
 
 ---
 
