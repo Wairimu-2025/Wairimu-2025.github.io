@@ -64,7 +64,7 @@ Key findings:
 - Most passengers traveled in **3rd class**.
 - More men than women were on board.
 
-![age_distribution](/assets/distribution_of_age(1).png)
+![age_distribution](/assets/distribution_of_age.png)
 ---
 
 ## Bivariate Analysis
