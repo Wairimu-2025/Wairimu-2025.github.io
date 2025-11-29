@@ -1,6 +1,6 @@
 ---
 title: "Exploratory Data Analysis on The Titanic Dataset"
-date: 2025-11-29 12:00:00 +0300
+date: 2025-11-29 11:21:00 +0300
 categories: [Data Science, EDA]
 tags: [python, kaggle, titanic, eda, visualization]
 image:
